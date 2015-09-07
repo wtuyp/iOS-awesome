@@ -16,6 +16,7 @@
 
 [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation)
 
+[iOS-Core-Animation-Advanced-Techniques 中文](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
 
 ##Swift
 [SwiftOnTheWay](https://github.com/wtuyp/SwiftOnTheWay)
