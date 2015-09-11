@@ -18,6 +18,8 @@
 
 [iOS-Core-Animation-Advanced-Techniques 中文](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
 
+[open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
+
 ##Swift
 [SwiftOnTheWay](https://github.com/wtuyp/SwiftOnTheWay)
 
