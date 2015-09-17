@@ -26,5 +26,8 @@
 ##Swift
 [SwiftOnTheWay](https://github.com/wtuyp/SwiftOnTheWay)
 
+##watchOS
+[watchOS-2-Sampler](https://github.com/shu223/watchOS-2-Sampler)
+
 ##Mac App
 [WWDC app for OS X](https://github.com/insidegui/WWDC)
